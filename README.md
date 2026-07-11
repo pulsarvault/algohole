@@ -1,6 +1,6 @@
-# AeroCache
+# CodeLust
 
-Rohit Chauhan: Open-Source Lightning-fast, Intelligent Data Fetching and Caching for Modern Applications
+Rohit Chauhan: Open-Source Rust Libraries
 --------------------------------------------------------------------------------------------------------
 
 
