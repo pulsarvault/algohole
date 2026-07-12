@@ -1,6 +1,6 @@
-# CodeLust
+# AlgoHole
 
-Rohit Chauhan: Open-Source Rust Libraries
+Rohit Chauhan: Rohit Chauhan: Open-Source Algorithms and Patterns.
 --------------------------------------------------------------------------------------------------------
 
 
